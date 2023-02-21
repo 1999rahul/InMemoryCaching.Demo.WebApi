@@ -85,3 +85,6 @@ C:\Users\rahul\Desktop\C#Playground\Book.WebAPI\Book.WebAPI\bin\Debug\net6.0\Mon
 C:\Users\rahul\Desktop\C#Playground\Book.WebAPI\Book.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\rahul\Desktop\C#Playground\Book.WebAPI\Book.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\rahul\Desktop\C#Playground\Book.WebAPI\Book.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rahul\Desktop\C#Playground\Book.WebAPI\Book.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Redis.dll
+C:\Users\rahul\Desktop\C#Playground\Book.WebAPI\Book.WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rahul\Desktop\C#Playground\Book.WebAPI\Book.WebAPI\bin\Debug\net6.0\StackExchange.Redis.StrongName.dll

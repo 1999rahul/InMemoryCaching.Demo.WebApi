@@ -30,7 +30,11 @@ namespace Book.WebAPI
                 options.UseSqlServer(builder.Configuration.GetSection("ConnectionStrings:sqlConnection").Value);
                 
             });
-            Services.AddMemoryCache();
+            //Services.AddMemoryCache();
+            Services.AddDistributedRedisCache(options =>
+            {
+                options.Configuration = builder.Configuration.GetSection("ConnectionStrings:AzureRedisConnection").Value;
+            });
 
             //Custom Services
             Services.AddTransient<IBookService, BookService>();
